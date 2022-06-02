@@ -1,0 +1,10 @@
+- Syntaxhighlighting einbauen
+  https://macromates.com/manual/en/language_grammars
+  https://cwiki.apache.org/confluence/display/NETBEANS/Adding+New+Language+Support
+  https://github.com/Chris2011/netbeans-textmate-files
++ in ein eigenes repo als eigenes plugin für pcd-files anschauen ganz allein
+  https://javawithumer.com/2019/07/how-to-upload-netbeans-project-to-github.html
+  https://github.com/orat/netbeans-pcd
++ Sheet bauen, dass Metadaten anzeigt, insbesondere die Zahl der visualisierten Punkte
+- pcd binary files lesen
+- Synchronisation von visual view und texteditor view
